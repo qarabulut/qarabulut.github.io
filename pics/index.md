@@ -3,11 +3,9 @@ layout: default
 title: Pics
 ---
 
-![İstanbul çalışması](113.jpg)
-*İstanbul'dan esintiler*
+### Fotoğraf Albümleri
 
-![peninsula](114.jpg)
-*İstanbul'dan esintiler - II*
+* 📸 **[İstanbul Fotoğrafları](istangal)**
 
 ---
 * [← Ana Sayfaya Dön](/)

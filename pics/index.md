@@ -1,5 +1,11 @@
-+++
-date = '2026-07-31T17:24:33+03:00'
-draft = true
-title = 'Pics'
-+++
+---
+layout: default
+title: Pics
+---
+
+# Pics
+
+![113](113.jpg)
+
+---
+* [← Ana Sayfaya Dön](/)
